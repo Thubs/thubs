@@ -1,5 +1,3 @@
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-
 (I use Arch btw!)
  ---------------
       o
@@ -24,3 +22,6 @@
            `-. `.`.``-----``--,@@.'
              |/`.\`'        ,',');
                  `         (/  (/
+
+
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
