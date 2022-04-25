@@ -25,5 +25,3 @@
 
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-
-![Metrics](/metrics.plugin.languages.svg)
