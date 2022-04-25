@@ -1,6 +1,4 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.22
-
+![Metrics](/github-metrics.svg)
 
 (I use Arch btw!)
  ---------------
