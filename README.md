@@ -26,4 +26,4 @@
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
-![](https://komarev.com/ghpvc/?username=Thubs&style=flat-square&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=Thubs&style=flat&color=lightgrey)
