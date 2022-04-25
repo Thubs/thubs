@@ -1,3 +1,7 @@
+- name: Metrics embed
+  uses: lowlighter/metrics@v3.22
+
+
 (I use Arch btw!)
  ---------------
       o
