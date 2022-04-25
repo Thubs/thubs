@@ -12,8 +12,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@master
         with:
+          filename: metrics.plugin.isocalendar.fullyear.svg, metrics.markdown.full.md
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           template: markdown
-          filename: metrics.markdown.full.md
           markdown: >-
             https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
           config_output: markdown
