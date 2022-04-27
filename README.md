@@ -1,4 +1,4 @@
-(I use Arch btw!)
+(I use Arch btw)
  ---------------
       o
         o
