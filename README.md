@@ -1,3 +1,9 @@
+ ## My Development Environment
+![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux%20color=blue&?style=flat&logo=linux)
+![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VSCode%20)
+![Desktop Environment](https://img.shields.io/static/v1?label=WM&message=sway&color=blue&?style=flat&logo=gnome)
+![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Firefox&color=orange&?style=flat&logo=firefox)
+ 
  ______________
 (I use Arch btw)
  ---------------
