@@ -1,6 +1,6 @@
 ## My Development Environment
 ![Operating System](https://img.shields.io/static/v1?label=OS&message=Arch%20Linux%20&?style=flat&logo=linux)
-![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VSCode%20color=darkgreen&?style=flat&logo=neovim)
+![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VSCode&?style=flat&logo=neovim)
 ![Desktop Environment](https://img.shields.io/static/v1?label=WM&message=gnome&color=blue&?style=flat&logo=gnome)
 ![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Firefox&color=orange&?style=flat&logo=firefox)
 
