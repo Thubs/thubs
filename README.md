@@ -33,4 +33,7 @@ ______________
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
+<!--START_SECTION:top_language-->
+<!--END_SECTION:top_language-->
+
 ![](https://komarev.com/ghpvc/?username=Thubs&style=flat&color=lightgrey)
